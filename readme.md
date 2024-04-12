@@ -2,13 +2,9 @@
 
 ## Introduction
 
----
-
 ChatWithPDF is a Python application where you can communicate and ask questions regarding the information present in the PDFs that the LLM is using. Developed for LLM and IR practices.
 
 ## How It Works
-
----
 
 1. PDF Loading: Reading the PDF documents, extracting text content.
 
@@ -21,8 +17,6 @@ ChatWithPDF is a Python application where you can communicate and ask questions 
 5. Response Generation: Selected chunks are passed to language model, and response is generated
 
 ## Installation
-
----
 
 Install dependencies:
 
@@ -37,8 +31,6 @@ OPENAI_API_KEY=your_secrit_api_key
 ```
 
 ## Usage
-
----
 
 Run
 
